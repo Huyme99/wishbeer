@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Airside Sans';
+    src: url('AirsideSans-Regular.woff2') format('woff2'),
+        url('AirsideSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SS Nickson One';
+    src: url('SSNicksonOne.woff2') format('woff2'),
+        url('SSNicksonOne.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
